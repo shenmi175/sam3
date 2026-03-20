@@ -1,0 +1,22 @@
+{
+  "selectedClasses": [
+    "face"
+  ],
+  "activeClass": "face",
+  "imageId": "498eacffe3955914",
+  "tool": "point",
+  "promptLabel": 1,
+  "showMask": true,
+  "showBox": true,
+  "autoPromptInfer": false,
+  "autoPromptMode": "visual_preview",
+  "imageViewStates": {
+    "498eacffe3955914": {
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0
+    }
+  },
+  "hideLeftSidebar": false,
+  "hideRightSidebar": false
+}

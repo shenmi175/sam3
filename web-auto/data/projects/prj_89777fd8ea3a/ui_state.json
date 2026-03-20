@@ -1,0 +1,148 @@
+{
+  "selectedClasses": [
+    "cat",
+    "dog",
+    "dog face",
+    "cat face",
+    "door",
+    "person",
+    "person face"
+  ],
+  "activeClass": "cat",
+  "imageId": "75862d982e32541f",
+  "tool": "pan",
+  "promptLabel": 1,
+  "showMask": true,
+  "showBox": true,
+  "autoPromptInfer": false,
+  "autoPromptMode": "visual_preview",
+  "imageViewStates": {
+    "3fb2ba8ce0715934": {
+      "zoom": 2.8,
+      "panX": 72.30000000000001,
+      "panY": 0
+    },
+    "a604b9638c4d52fa": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "d8a2d008a3f554d9": {
+      "zoom": 1.554,
+      "panX": -3,
+      "panY": 0
+    },
+    "9fd2e18a1c625e69": {
+      "zoom": 1.0669703146764729,
+      "panX": -27.725710276059885,
+      "panY": -19.421391256177117
+    },
+    "34e2fde71d31542c": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "aa4197698c2752c0": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "c0abdc9e486f5b03": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "845948826c5e530d": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "4b09b7a151315a52": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "c7e1eff463f95886": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "6e4dedfe442d58e7": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "bf8456647893502e": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "97d3da77643b54fd": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "b6b4657464ff5ead": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "a1dcd8bb542652c9": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "32ae633abbf25d17": {
+      "zoom": 2.59,
+      "panX": 10,
+      "panY": 0
+    },
+    "ea0f136bfb725383": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "8e36f958c96b5616": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "34af776123de5c1d": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "312d73986c8650df": {
+      "zoom": 2.072,
+      "panX": 10,
+      "panY": 0
+    },
+    "fc87798e3ef75e4d": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "3da3de172a2b5f6a": {
+      "zoom": 2.59,
+      "panX": 10,
+      "panY": 0
+    },
+    "a016e79dee60594e": {
+      "zoom": 2.59,
+      "panX": 10,
+      "panY": 0
+    },
+    "33bd7ee774325074": {
+      "zoom": 1.554,
+      "panX": 10,
+      "panY": 0
+    },
+    "75862d982e32541f": {
+      "zoom": 3.2666666666666666,
+      "panX": 71.83333333333331,
+      "panY": 0
+    }
+  },
+  "hideLeftSidebar": false,
+  "hideRightSidebar": false
+}

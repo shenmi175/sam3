@@ -1,0 +1,46 @@
+{
+  "project_id": "prj_c3d6345b6580",
+  "status": "error",
+  "mode": "keyframe",
+  "classes": [
+    "face"
+  ],
+  "active_class": "face",
+  "prompt_mode": "points",
+  "prompt_frame_index": 0,
+  "prompt_points": [
+    [
+      865.9286592865928,
+      489.1020910209102,
+      0.0
+    ],
+    [
+      654.9569495694957,
+      319.0651906519065,
+      1.0
+    ]
+  ],
+  "prompt_boxes": [],
+  "api_base_url": "http://172.16.1.65:8001",
+  "resource_path": "J:\\datasets\\VisioFirm_cache\\VisioFirm\\videos2\\output_h264.mp4",
+  "session_id": "",
+  "prompt_added": false,
+  "threshold": 0.5,
+  "segment_size_frames": 100,
+  "start_frame_index": 0,
+  "end_frame_index": 99,
+  "next_frame_index": 0,
+  "current_frame_index": -1,
+  "processed_frames": 0,
+  "total_frames": 100,
+  "progress_pct": 0.0,
+  "elapsed_ms": 0.0,
+  "avg_frame_ms": 0.0,
+  "fps": 0.0,
+  "started_at": "2026-03-05 16:32:12",
+  "updated_at": "2026-03-05 16:32:26",
+  "ended_at": "",
+  "last_error": "API HTTP error 500: video add_prompt failed: No cached outputs found. Ensure normal propagation has run first to populate the cache.",
+  "prompt_note": "forced_segmented=remote_api_with_local_windows_path",
+  "segmented": true
+}

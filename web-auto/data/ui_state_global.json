@@ -1,0 +1,14 @@
+{
+  "projectName": "demo",
+  "imageDir": "J:\\datasets\\VisioFirm_cache\\VisioFirm\\images",
+  "saveDir": "J:\\project_code\\auto-label\\web-auto\\data\\projects",
+  "apiBaseUrl": "http://127.0.0.1:8001",
+  "threshold": 0.2,
+  "batchSize": 1,
+  "exportFormat": "coco",
+  "exportDir": "J:\\datasets\\VisioFirm_cache\\VisioFirm\\images",
+  "exportBBox": true,
+  "exportMask": false,
+  "darkMode": true,
+  "lastProjectId": "prj_2896ccd688b3"
+}
