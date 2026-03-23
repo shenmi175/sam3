@@ -1,7 +1,7 @@
 {
-  "projectName": "cat-dog-1",
-  "imageDir": "J:\\datasets\\pets\\archive\\images",
-  "saveDir": "J:\\datasets\\pets\\archive",
+  "projectName": "demo",
+  "imageDir": "J:\\datasets\\VisioFirm_cache\\VisioFirm\\images",
+  "saveDir": "J:\\project_code\\auto-label\\web-auto\\data\\projects",
   "apiBaseUrl": "http://127.0.0.1:8001",
   "threshold": 0.5,
   "batchSize": 1,
@@ -10,5 +10,5 @@
   "exportBBox": true,
   "exportMask": false,
   "darkMode": true,
-  "lastProjectId": "prj_89777fd8ea3a"
+  "lastProjectId": "prj_2896ccd688b3"
 }
