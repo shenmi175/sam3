@@ -15,7 +15,7 @@
     ],
     "images": [],
     "created_at": "2026-03-03 10:17:22",
-    "updated_at": "2026-03-23 11:09:24",
+    "updated_at": "2026-03-23 19:05:03",
     "save_base_dir": "J:\\project_code\\auto-label\\web-auto\\data\\projects",
     "project_save_dir": "J:\\project_code\\auto-label\\web-auto\\data\\projects\\prj_2896ccd688b3",
     "annotation_dir": "J:\\project_code\\auto-label\\web-auto\\data\\projects\\prj_2896ccd688b3\\annotations",
@@ -29,10 +29,10 @@
     "video_meta": {},
     "num_frames": 0,
     "num_images": 41,
-    "labeled_images": 40,
-    "unlabeled_images": 1,
+    "labeled_images": 41,
+    "unlabeled_images": 0,
     "image_store": "sqlite",
-    "content_rev": 73
+    "content_rev": 78
   },
   {
     "id": "prj_c3d6345b6580",
